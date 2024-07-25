@@ -10,5 +10,8 @@
     "require": {
         "php": ">=8.0",
         "laravel/framework": "^10.0"
-    }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
