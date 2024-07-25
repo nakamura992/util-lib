@@ -1,0 +1,14 @@
+{
+    "name": "laravel-pack/util-library",
+    "description": "Laravel Package for Utility Library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "LaravelPack\\UtilLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": "^10.0"
+    }
+}
